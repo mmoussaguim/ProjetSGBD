@@ -1,0 +1,36 @@
+body
+{
+    background: url(../images/bg.png);
+}
+
+.site
+{
+    font-family: "Holtwood One SC", sans-serif;
+}
+
+.text-logo
+{
+    font-family: "Holtwood One SC", sans-serif;
+    color: #298cb4;
+    font-size: 40px;
+    padding: 40px 0px;
+    text-align: center;
+    
+}
+
+.main
+{
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+h1, h3, p
+{
+    text-align: center;
+}
+
+table
+{
+    display: inline-block;
+}
