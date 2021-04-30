@@ -1,5 +1,5 @@
+![Kazam_screencast_00041](https://user-images.githubusercontent.com/62134451/116762033-8065ed80-aa19-11eb-9d3d-73c86c14658c.gif)
 
-https://user-images.githubusercontent.com/62134451/116761913-282eeb80-aa19-11eb-808c-7e9a587388e7.mp4
 
 Projet de Systéme de Gestion de base de données.
 
